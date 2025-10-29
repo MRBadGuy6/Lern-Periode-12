@@ -8,5 +8,5 @@ Grobplanung:
 
 - [ ] Aufgabe 4202 Modul 321 lösen
 - [ ] Grundstruktur eines Ratespiel in C# programmieren
-- [ ] ein Bewerbungsbrief rausschicken
+- [ ] ein Bewerbungsbrief abschicken
 - [ ] Zusammenfassung erstellen für OBA Modul 321
