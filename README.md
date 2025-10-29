@@ -1,6 +1,6 @@
 # Lern-Periode-12
 
-Diese Lernperiode geht bis zu den Weihnachstferien. Wie in der letzten Lernperiode werde ich die Zeit ausnutzen um C# zu repetieren. Die restliche Zeit nutze ich aus um mich weiter zu bewerben und gewisse Aufgaben nachzuholen.
+Diese Lernperiode geht bis zu den Weihnachtsferien. Wie in der letzten Lernperiode werde ich die Zeit ausnutzen, um C# zu repetieren. Die restliche Zeit nutze ich aus, um mich weiter zu bewerben und gewisse Aufgaben nachzuholen.
 
 # 31.10.25
 
