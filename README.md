@@ -6,7 +6,9 @@ Diese Lernperiode geht bis zu den Weihnachtsferien. Wie in der letzten Lernperio
 
 Grobplanung:
 
-- [ ] Aufgabe 4202 Modul 321 lösen
-- [ ] Grundstruktur eines Ratespiel in C# programmieren
-- [ ] ein Bewerbungsbrief abschicken
+- [x] Aufgabe 4202 Modul 321 lösen
+- [x] Grundstruktur eines Ratespiel in C# programmieren
+- [x] ein Bewerbungsbrief abschicken
 - [ ] Zusammenfassung erstellen für OBA Modul 321
+
+Heute war ich sehr produktiv. Da ich schon eine Grobplanung erstellt habe wusste ich genau was ich machen sollte. Die Aufgabe an sich war nicht schwer. Viel lesen und anschliessend eigene Definitionen aufschreiben. Wiederrum das Ratespiel programmieren war sehr anstrengend. Es ist eine Weile her. Ich musste mein Wissen wieder aufrischen. Aber bis jetzt sieht es gut aus. Das Programm ist noch nicht fertig aber es wird nicht mehr so lnge dauern. Auch habe ich noch ein weiteres Bewerbungbrief abgeschickt. Stimmt heute ist Halloween. Ich feiere das nicht. Aus diesem Grund werde ich auch niemanden die Türe öffnen. 
