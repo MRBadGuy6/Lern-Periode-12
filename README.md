@@ -38,3 +38,11 @@ Wieder mal auf Hochtouren unterwegs. Endlich bin ich mit meinem Programm fertig 
 - [x] Bewerbung abschicken
 
 Nun, das, was ich letztes Mal gesagt habe, stimmt nicht ganz. Ich habe mich entschieden, die Programme noch nicht in Klassen abzulagern. Stattdessen habe ich sie in Methoden gelagert. Das Programm sieht sehr lang aus, aber es funktioniert. Aber es gibt mal wieder ein paar Bugs, die ich noch nicht beheben konnte. Wie schon erwähnt benutze ich kein Co-Pilot und benutze ChatGPT nur für Ratschläge. Alles von Hand geschrieben. Jetzt zu den Bugs: Ich muss gewisse Schleifen anpassen, damit man sich durch diese unterschiedlichen Menüs navigieren kann. Was, wenn ich beim Taschenrechner bleiben will? Wäre ja sehr mühsam vom Hauptmenü zum Rechner. Es ist nur ein Klick, aber das wäre toll, wennn ich das noch implementieren könnte. Bei Modul 323 gab es keine Probleme. Methoden einfügen für einen Bösewicht (Schaden und so). Auch habe ich wieder einen Bewerbungsbrief abgeschickt. Und das wäre es für heute.  
+
+# 28.11.25
+
+- [x] Aufgabe Nacholen Modul 321
+- [x] Aufgaben Nachholen Modul 323
+- [x] Rechner/Ratespiel Programm Bug fixen
+
+Es macht Spass, von zu Hause aus zu arbeiten. Es ist sehr ruhig und das mag ich sehr, weil ich mich besser konzentrieren kann. Ohne Co‑Pilot zu programmieren, fühlt sich komisch an. Wenn ich mich jetzt fragen würde, wie dies oder jenes programmiert wird, hätte ich keine Antwort darauf. Aber wenn ich jetzt an meinem Code arbeite, dann verstehe ich alles. Es ist frustrierend, denn ich bräuchte immer Hilfsmittel, um Code erklären zu können. Ich kann nichts aus dem Stegreif. Immerhin geht das Programm jetzt besser. Allerdings werde ich noch ein paar Verbesserungen einfügen,, damit das Programm besser läuft. Wenn ich damit fertig werde, werde ich versuchen, es in unterschiedlichen Klassen zu unterteilen. Bei Modul 321 sind mehrere Errors aufgetreten und ich konnte mein Programm nicht starten und es hat eine Weile gebraucht, bis ich alles wieder zum Laufen gebracht habe. Bei 323 wiederum war ich am Dienstag etwas langsamer unterwegs. Naja, alles schön und gut, jetzt bin ich nicht mehr im Verzug.  
