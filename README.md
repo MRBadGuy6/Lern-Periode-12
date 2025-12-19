@@ -53,6 +53,6 @@ Heute habe ich nur an der LB 321 gearbeitet. Das liegt daran, dass ich nicht mit
 
 # 19.12.25
 
-- [ ] Taschenrechner/RateSpiel fertig erstellen
+- [ ] Taschenrechner/RateSpiel fertig coden
 - [ ] Bewerbungen rausschicken
 - [ ] Reflexion schreiben
