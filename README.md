@@ -52,3 +52,7 @@ Es macht Spass, von zu Hause aus zu arbeiten. Es ist sehr ruhig und das mag ich 
 Heute habe ich nur an der LB 321 gearbeitet. Das liegt daran, dass ich nicht mit der LB fertig geworden bin. Es hat viel Zeit gekostet, aber immerhin bin ich mit der Hälfte durch. Dieses Modul hat um einiges mehr Spass gemacht, da ich die Aufgaben gut verstanden habe. Ansonsten habe ich noch mit ein paar anderen Kollegen Karten gespielt. Die Regeln waren etwas verwirrend, aber es hat Spass gemacht. Auch war es das erste Mal seit einem Jahr, dass wir Frau Rieder wieder als Lehrerin hatten. Mit ihr habe ich auch mein Bewerbungsdossier angeschaut und hat mir noch ein Paar Tipps gegeben. Nächste Woche gibt es keinen Input von mir, weil wir ein Spezialprogramm haben. 
 
 # 19.12.25
+
+- [ ] Taschenrechner/RateSpiel fertig erstellen
+- [ ] Bewerbungen rausschicken
+- [ ] Reflexion schreiben
