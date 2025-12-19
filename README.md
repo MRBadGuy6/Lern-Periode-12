@@ -53,6 +53,12 @@ Heute habe ich nur an der LB 321 gearbeitet. Das liegt daran, dass ich nicht mit
 
 # 19.12.25
 
-- [ ] Taschenrechner/RateSpiel fertig coden
-- [ ] Bewerbungen rausschicken
-- [ ] Reflexion schreiben
+- [x] Taschenrechner/RateSpiel fertig coden
+- [x] Bewerbungen rausschicken
+- [x] Reflexion schreiben
+
+Heute habe ich an meinem Projekt mal wieder gearbeitet. Es ist eine Weile her. Musste ein paar Sachen wieder auffrischen. Jedes Mal, wenn ich an mein Projekt denke, sehe ich nur Nebel, aber sobald ich das Programm öffne, dann bekomme ich diesen Aha-Moment. Der Code macht Sinn und ich verstehe ihn. Beim nächsten Mal würde ich versuchen, das in Klassen zu unterteilen, damit der Code etwas schöner aussieht und ich nicht alles im Programm.cs mache. Ansonsten habe ich noch ein paar Bewerbungen abgeschickt und versucht, meinen Bewerbungsbrief zu verbessern, mithilfe der Powerpoint, die wir letztes Mal erhalten haben. Diese Tipps haben mir schon geholfen.
+
+# Reflexion
+
+In dieser Lernperiode habe ich versucht, C# zu repetieren. Es ist gegangen, aber ich habe gemerkt, dass ich mich mehr mit diesem Thema beschäftigen muss, denn ansonsten ist alles verschwommen in meinem Kopf. Auch habe ich die Zeit ausgenutzt, um gewisse Aufgaben nachzuholen, Bewerbungen zu schreiben und an LB zu arbeiten. Meine Probleme waren, dran zu bleiben an C#. Mein Projekt habe ich ohne KI-Tools programmiert (nun, ich habe nur KI benutzt, damit sie mir Tipps gibt, keine Lösungen). Dies hat den Prozess verlängert und ich musste länger daran arbeiten. Ich müsste wohl mehr Zeit in C# investieren und ich kann auch alte Aufgaben von M319, M320 oder M450 nachholen. Das werde ich auch machen ab der nächsten Lernperiode. Ziel ist es, mich zu verbessern, damit ich ohne Probleme dann z. B. einen Taschenrechner programmieren kann oder etwas anderes. Mal sehen, was herauskommt.
